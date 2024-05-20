@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo</h1>
 <h3 align="center">I'm a software engineer from Colombia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marthox" alt="marthox" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marthox&row=1" alt="marthox" /></a> </p>
 
 - 🔭 I’m currently working on [Sonata-Sage](https://github.com/Marthox/Sonata-Sage)
 
